@@ -1,6 +1,6 @@
 # BS2_Backup#
 把 BS2 資料備份成一般txt檔形式  
-![DEMO] (DEMO.png)
+![DEMO] (DEMO.png)  
 支援備份 1.看板文章 2.個人信件  
 看板精華區若無子資料夾形式，可當作看板文章  
 
